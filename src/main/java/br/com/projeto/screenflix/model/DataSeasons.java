@@ -1,2 +1,4 @@
-package br.com.projeto.screenflix.model;public record DataSeasons() {
+package br.com.projeto.screenflix.model;
+
+public record DataSeasons() {
 }
